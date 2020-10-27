@@ -14,7 +14,7 @@ Esse repositório é um desafio apresentado em  do bootcamp GoStack modulo "back
 
 ## Funcionamento 🚀💣
 
- aplicação server para repositórios como próprio Github, onde se permitir  *listar*, *criar*, *atualizar*, *deletar* e da *likes* em um determinado repositório.
+ aplicação server para repositórios como próprio Github, onde se permitar  *listar*, *criar*, *atualizar*, *deletar* e da *likes* em um determinado repositório.
 
 Temos os métodos:
 
