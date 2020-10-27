@@ -10,7 +10,7 @@
 
 ## Sobre 🤓
 
-Esse repositório é um desafio apresentado em  do bootcamp Gstack modulo "back end com nodejs"  a ideia seria criar uma aplicação usando conceitos básicos do Node.js!
+Esse repositório é um desafio apresentado em  do bootcamp GoStack modulo "back end com nodejs"  a ideia seria criar uma aplicação usando conceitos básicos do Node.js!
 
 ## Funcionamento 🚀💣
 
